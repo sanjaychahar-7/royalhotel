@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://royalhotel-one.vercel.app/sitemap.xml
